@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/vauxoo-dev/vauxooci-testeable.svg?branch=master)](https://travis-ci.org/vauxoo-dev/vauxooci-testeable)
+[![Build Status](https://travis-ci.org/vauxoo-dev/vauxooci-testeable.svg?branch=8.0)](https://travis-ci.org/vauxoo-dev/vauxooci-testeable)
 
 
 Repo template to configure our initial environments.
