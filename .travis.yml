@@ -1,8 +1,16 @@
 language: python
 
 branches:
-    only:
-        - 8.0
+  only:
+    8.0
+
+cache:
+  apt: true
+  directories:
+    - $HOME/.cache/pip
+
+virtualenv:
+  system_site_packages: true
 
 python:
   - "2.7"
@@ -15,9 +23,6 @@ addons:
       - python-simplejson
       - python-serial
       - python-yaml
-
-virtualenv:
-  system_site_packages: true
 
 env:
   - VERSION="8.0" ODOO_REPO="vauxoo/odoo" TESTS=1 LINT_CHECK=0 ODOO_LINT=0 INCLUDE=app_x
