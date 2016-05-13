@@ -5,7 +5,7 @@
     'author': 'Odoo Community Association (OCA)',
     'version': '1.0',
     'depends': [
-        'base',
+        'instance_introspection',
     ],
     'data': [
         'security/ir.model.access.csv',
