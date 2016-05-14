@@ -1,1 +1,1 @@
-server-tools git@github.com:Vauxoo/server-tools.git
+server-tools https://github.com/Vauxoo/server-tools.git
