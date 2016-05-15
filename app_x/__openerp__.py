@@ -5,6 +5,7 @@
     'author': 'Vauxoo',
     'version': '1.0',
     'depends': [
+        'mail',
         'instance_introspection',
     ],
     'data': [
