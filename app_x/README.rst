@@ -30,7 +30,7 @@ To use this module, you need to:
 
 #. Go to ...
 
-.. image:: https://{runbot_domain}/website/image/ir.attachment/5784_f2813bd/datas
+.. image:: https://{runbot_domain}/build/status.svg?branch=8.0
    :alt: Try me on Runbot
    :target: https://runbot.odoo-community.org/runbot/{repo_id}/{branch}
 
