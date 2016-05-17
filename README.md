@@ -9,6 +9,8 @@ How use this repository?.
 ---
 
 1. cookiecutter this repo.
+2. Pick some dependencies apps.
+3. Add your other repositories into the oca_dependencies.txt file.
 
 Hacking.
 ---
