@@ -2,7 +2,7 @@
 {
     'name': 'Base App Module {{company}}',
     'license': 'LGPL-3',
-    'author': 'Vauxoo',
+    'author': '{{ author }}',
     'version': '1.0',
     'depends': [
         'mail',
