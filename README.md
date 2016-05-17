@@ -8,6 +8,8 @@ This is the base module to give green on runbot.
 How use this repository?.
 ---
 
+1. cookiecutter this repo.
 
 Hacking.
 ---
+
