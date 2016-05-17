@@ -9,3 +9,6 @@ This is a rst file without syntax error.
 Installation
 ============
 
+Usage
+=====
+

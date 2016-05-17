@@ -15,3 +15,5 @@ How use this repository?.
 Hacking.
 ---
 
+Test Line delete when documentation expect.
+
